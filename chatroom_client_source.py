@@ -1,4 +1,5 @@
 # source: https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/?completed=/server-chatroom-sockets-tutorial-python-3/
+# video: https://www.youtube.com/watch?v=T0rYSFPAR0A
 import socket
 import select
 import errno
