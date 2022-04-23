@@ -5,3 +5,6 @@ Tutorial series can be found in https://pythonprogramming.net/sockets-tutorial-p
 
 About I/O multiplexing and other I/O models:
 https://www.youtube.com/watch?v=I5j9TBcqe_Q
+
+Other useful resources on python socket:
+https://realpython.com/python-sockets/
